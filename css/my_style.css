@@ -11,3 +11,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
 }  
+.social-icon{
+    color:#495057
+}
+.social-icon:hover{
+    background-color: #fff;
+    color: var(--bs-primary);
+}
